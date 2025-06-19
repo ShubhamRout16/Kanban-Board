@@ -21,7 +21,6 @@ A Trello-inspired task management system with drag-and-drop functionality and lo
 - **Styling**: CSS Flexbox
 
 ## Project Demo
+[![Kanban Board Demo](https://ytcards.demolab.com/?id=ZZ2lPK6epbE&title=Kanban+Board&lang=en&timestamp=1750262400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=8&duration=41)](https://youtu.be/ZZ2lPK6epbE)
 
-[![Kanban Board Demo](https://ytcards.demolab.com/?id=ZZ2lPK6epbE&title=Kanban+Board+with+LocalStorage&lang=en&timestamp=1715054400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=8&duration=41)](https://youtu.be/ZZ2lPK6epbE)
-
-[![YouTube](https://img.shields.io/badge/Full_Video-Click_Here-red?style=for-the-badge&logo=youtube)](https://youtu.be/ZZ2lPK6epbE)
+[![YouTube](https://img.shields.io/badge/Watch_Full_Video-red?style=flat&logo=youtube)](https://youtu.be/ZZ2lPK6epbE)
